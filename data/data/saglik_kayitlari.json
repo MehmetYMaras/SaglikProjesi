@@ -1,0 +1,118 @@
+[
+    {
+        "user_id": 1,
+        "tip": "Adım",
+        "deger": "250",
+        "tarih": "04.05.2026 17:50"
+    },
+    {
+        "user_id": 1,
+        "tip": "Kalori",
+        "deger": "27",
+        "tarih": "04.05.2026 17:51"
+    },
+    {
+        "user_id": 1,
+        "tip": "Su",
+        "deger": "1200",
+        "tarih": "04.05.2026 17:51"
+    },
+    {
+        "user_id": 1,
+        "tip": "Tansiyon",
+        "deger": "120\/80",
+        "tarih": "04.05.2026 17:51"
+    },
+    {
+        "user_id": 1,
+        "tip": "Adım",
+        "deger": "680",
+        "tarih": "04.05.2026 17:52"
+    },
+    {
+        "user_id": "2",
+        "tip": "Adım",
+        "deger": "970",
+        "tarih": "06.05.2026 17:59"
+    },
+    {
+        "user_id": "2",
+        "tip": "Tansiyon",
+        "deger": "117\/88",
+        "tarih": "06.05.2026 18:00"
+    },
+    {
+        "user_id": "2",
+        "tip": "Su",
+        "deger": "852",
+        "tarih": "06.05.2026 18:01"
+    },
+    {
+        "user_id": "2",
+        "tip": "Kalori",
+        "deger": "129",
+        "tarih": "06.05.2026 18:01"
+    },
+    {
+        "user_id": "3",
+        "tip": "Adım",
+        "deger": "5697",
+        "tarih": "06.05.2026 18:01"
+    },
+    {
+        "user_id": "3",
+        "tip": "Tansiyon",
+        "deger": "116\/74",
+        "tarih": "06.05.2026 18:02"
+    },
+    {
+        "user_id": "3",
+        "tip": "Su",
+        "deger": "861",
+        "tarih": "06.05.2026 18:02"
+    },
+    {
+        "user_id": "3",
+        "tip": "Kalori",
+        "deger": "169",
+        "tarih": "06.05.2026 18:02"
+    },
+    {
+        "user_id": "4",
+        "tip": "Adım",
+        "deger": "8826",
+        "tarih": "06.05.2026 18:02"
+    },
+    {
+        "user_id": "4",
+        "tip": "Su",
+        "deger": "935",
+        "tarih": "06.05.2026 18:03"
+    },
+    {
+        "user_id": "4",
+        "tip": "Kalori",
+        "deger": "298",
+        "tarih": "06.05.2026 18:03"
+    },
+    {
+        "user_id": "4",
+        "tip": "Tansiyon",
+        "deger": "116\/35",
+        "tarih": "06.05.2026 18:03"
+    },
+    {
+        "user_id": "1",
+        "tip": "Adım",
+        "deger": "600",
+        "tarih": "08.05.2026 12:54",
+        "tarih_ham": "2026-05-08"
+    },
+    {
+        "user_id": "1",
+        "tip": "Su",
+        "deger": "500",
+        "tarih": "08.05.2026 12:55",
+        "tarih_ham": "2026-05-08"
+    }
+]

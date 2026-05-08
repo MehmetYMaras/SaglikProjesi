@@ -1,0 +1,7 @@
+[
+    { "id": 1, "cinsiyet": "Erkek", "yas": 20, "boy": 180, "kilo": 85 },
+    { "id": 2, "cinsiyet": "Kadın", "yas": 19, "boy": 165, "kilo": 55 },
+    { "id": 3, "cinsiyet": "Erkek", "yas": 20, "boy": 170, "kilo": 60 },
+    { "id": 4, "cinsiyet": "Kadın", "yas": 21, "boy": 178, "kilo": 75 },
+    { "id": 5, "cinsiyet": "Erkek", "yas": 22, "boy": 182, "kilo": 80 }
+]
