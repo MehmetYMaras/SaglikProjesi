@@ -1,0 +1,16 @@
+# OS metadata (İşletim sistemi gereksiz dosyaları)
+.DS_Store
+Thumbs.db
+
+# IDE & Editor (Yazılım geliştirme araçları ayarları)
+.vscode/
+.idea/
+*.swp
+*.sublime-project
+
+# Temp files (Geçici dosyalar)
+*.log
+tmp/
+
+# XAMPP/PHP Specific
+php_errors.log
